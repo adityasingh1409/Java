@@ -1,0 +1,14 @@
+Blueprint -> class
+1' Data members -> private properties or states
+2. constructor().
+3. behavior -> method ->m1,m2,m3....
+4. toString() -> override -> hashcode
+5. getters() and Setters()
+
+padh kei ana procedural vs obejct vs fucntional and pro and cons of that
+
+THREAD AND MULTITHREAD
+
+Task1 ->thread 1 ->Run@override
+Task2 ->thread 2 ->Run@override
+Task3 ->thread 3 ->Run@override
