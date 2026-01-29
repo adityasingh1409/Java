@@ -12,3 +12,26 @@ THREAD AND MULTITHREAD
 Task1 ->thread 1 ->Run@override
 Task2 ->thread 2 ->Run@override
 Task3 ->thread 3 ->Run@override
+
+Collection ->store and manage data
+1 pre-defined
+2 interfaces
+3 class
+
+Arrays -> class
+List -> Interfaces
+Map -> Interface
+Set -> Interface
+Linked_list -> Class
+HashMap -> Class
+Treeset -> class
+Arraylist  -> class
+
+List ->interfacce
+   -> ArrayList
+   -> LinkedList ( diff between arraylist and linkedlist is the implementation)
+   -> Vector (legacy)
+   note -> Arrays -> class
+Common behaviors  1 Duplicated are allowed
+                  2 intertion order
+                  3 index based access
