@@ -9,7 +9,7 @@ class Employee1 {
 
 class Manager extends Employee1 {
     void manage() {
-        System.out.println("Manager is managing");
+        System.out.println("Manager is managing the empoyeee");
     }
 }
 
