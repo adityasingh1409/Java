@@ -8,9 +8,9 @@ class Details{
         this.salary=salary;
     }
     void display(){
-        System.out.println("ID =" + id);
-        System.out.println("Name = " +name);
-        System.out.println("salary = "+salary);
+        System.out.println("ID is" + id);
+        System.out.println("Name is " +name);
+        System.out.println("salary is "+salary);
     }
 }
 public class Employee {
