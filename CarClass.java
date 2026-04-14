@@ -9,7 +9,7 @@ class Car {
     }
 
     void display() {
-        System.out.println("Car brand: " + brand);
-        System.out.println("Car speed: " + speed);
+        System.out.println("Car brand is: " + brand);
+        System.out.println("Car speed is: " + speed);
     }
 }
